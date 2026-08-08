@@ -1,0 +1,5 @@
+streamlit
+pypdf2
+sentence-transformers
+faiss-cpu
+numpy
